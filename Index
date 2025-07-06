@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>S K & Co. - Tax Consultancy in Surat</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>S K & Co.</h1>
+    <p>Your Trusted Tax Consultancy Partner in Surat</p>
+    <nav>
+      <a href="#about">About</a>
+      <a href="#services">Services</a>
+      <a href="#contact">Contact</a>
+    </nav>
+  </header>
+
+  <section id="about">
+    <h2>About Us</h2>
+    <p>S K & Co. is a trusted tax consultancy firm based in Surat. We provide expert tax planning, filing, and financial advisory services tailored to individuals and businesses.</p>
+  </section>
+
+  <section id="services">
+    <h2>Our Services</h2>
+    <ul>
+      <li>Income Tax Filing</li>
+      <li>GST Registration & Returns</li>
+      <li>Business Tax Planning</li>
+      <li>Accounting & Bookkeeping</li>
+      <li>Financial Advisory</li>
+    </ul>
+  </section>
+
+  <section id="contact">
+    <h2>Contact Us</h2>
+    <p>Email: <a href="mailto:info@skandco.com">info@skandco.com</a></p>
+    <p>Phone: +91-XXXXXXXXXX</p>
+    <p>Address: Surat, Gujarat, India</p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 S K & Co. All rights reserved.</p>
+  </footer>
+</body>
+</html>
